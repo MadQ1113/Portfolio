@@ -44,10 +44,10 @@ I specialize in repurposing old hardware into powerful utilities and managing a 
 
 ### Contact
 
-- Email: [YourEmailHere]  
-- GitHub: [github.com/your-handle](https://github.com/your-handle)  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Location: [City, State] — Open to remote opportunities  
+- Email: chelbya.smith@gmail.com  
+- GitHub:   https://github.com/MadQ1113
+- LinkedIn:   www.linkedin.com/in/chelby-smith
+- Location: Jax, FL — Open to remote opportunities  
 
 ---
 
