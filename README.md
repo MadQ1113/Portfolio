@@ -8,9 +8,27 @@ Hi, I'm Alice Smith — a Self-Taught Technologist & Systems Tinkerer
 
    Here’s what I currently work with:
 
--Core Operating Systems: Debian, Ubuntu Server 24.04, Proxmox VE, macOS Monterey, Windows 11
--Tools & Tech Stack: Docker, SMB, SSH, RDP, SPICE, Webmin, ZFS, BIOS/UEFI, RetroBat, RPCS3
--Remote Access: RustDesk, ZeroTier, Chrome Remote Desktop
+-Core Operating Systems:
+  Debian, 
+  Ubuntu Server 24.04, 
+  Proxmox VE, 
+  macOS Monterey, 
+  Windows 11
+-Tools & Tech Stack: 
+  Docker, 
+  SMB, 
+  SSH, 
+  RDP, 
+  SPICE, 
+  Webmin, 
+  ZFS, 
+  BIOS/UEFI, 
+  RetroBat, 
+  RPCS3
+-Remote Access: 
+  RustDesk, 
+  ZeroTier, 
+  Chrome Remote Desktop
 -Storage Management: ZFS pools, BitLocker drives, microSD + USB external disks
 -Scripting & Terminal Work: Bash, command-line disk imaging, automation
 -Emulation: RetroArch, Dolphin, RPCS3 — with a mix of wired/wireless controller support
