@@ -6,7 +6,7 @@ Hi, I'm Alice Smith — a Self-Taught Technologist & Systems Tinkerer
 
   I learn by doing — breaking, fixing, and documenting every step. I use multiple free-tier ChatGPT accounts (Twizzhunter, iCloud, and this one) to sync my learning and keep track of problems and solutions as I go.
 
-    Here’s what I currently work with:
+   Here’s what I currently work with:
 
 -Core Operating Systems: Debian, Ubuntu Server 24.04, Proxmox VE, macOS Monterey, Windows 11
 -Tools & Tech Stack: Docker, SMB, SSH, RDP, SPICE, Webmin, ZFS, BIOS/UEFI, RetroBat, RPCS3
