@@ -4,7 +4,7 @@ Hi, I'm Alice Smith — a Self-Taught Technologist & Systems Tinkerer
 
   My lab is hands-on, powered by real hardware — not cloud simulations. I work with tools like Proxmox, Docker, and ZFS, and manage everything from thin clients and headless servers to emulation stations and media servers. I keep things running across six core devices, each playing a role in my daily experiments, development, or home infrastructure.
 
-  I learn by doing — breaking, fixing, and documenting every step. I use multiple free-tier ChatGPT accounts (Twizzhunter, iCloud, and this one) to sync my learning and keep track of problems and solutions as I go.
+  I learn by doing — breaking, fixing, and documenting every step. I use ChatGPT to sync my learning and keep track of problems and solutions as I go.
 
    Here’s what I currently work with:
 
