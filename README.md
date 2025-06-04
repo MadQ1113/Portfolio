@@ -1,59 +1,54 @@
-# Alice Smith
+Hi, I'm Alice Smith — a Self-Taught Technologist & Systems Tinkerer
 
----
+I’ve always been drawn to understanding how things work. Instead of just using technology, I like to break it down, rebuild it, and make it better. I come from a support background and recently passed the CompTIA A+ 1101 exam. Now, I’m building a full-fledged home lab that spans Linux, Windows, and macOS — diving deep into virtualization, system management, retro gaming, and automation.
 
-### About Me
+My lab is hands-on, powered by real hardware — not cloud simulations. I work with tools like Proxmox, Docker, and ZFS, and manage everything from thin clients and headless servers to emulation stations and media servers. I keep things running across six core devices, each playing a role in my daily experiments, development, or home infrastructure.
 
-I'm a self-taught technologist and hands-on problem solver with a passion for building practical IT infrastructure from the ground up. With a CompTIA A+ 1101 certification and experience across Linux, virtualization, Docker, and retro gaming, I thrive in hands-on environments where I can try, break, and fix systems to master them.
+I learn by doing — breaking, fixing, and documenting every step. I use multiple free-tier ChatGPT accounts (Twizzhunter, iCloud, and this one) to sync my learning and keep track of problems and solutions as I go.
 
-I specialize in repurposing old hardware into powerful utilities and managing a multi-device home lab with an eye for simplicity and efficiency.
+Here’s what I currently work with:
 
----
+Core Operating Systems: Debian, Ubuntu Server 24.04, Proxmox VE, macOS Monterey, Windows 11
+Tools & Tech Stack: Docker, SMB, SSH, RDP, SPICE, Webmin, ZFS, BIOS/UEFI, RetroBat, RPCS3
+Remote Access: RustDesk, ZeroTier, Chrome Remote Desktop
+Storage Management: ZFS pools, BitLocker drives, microSD + USB external disks
+Scripting & Terminal Work: Bash, command-line disk imaging, automation
+Emulation: RetroArch, Dolphin, RPCS3 — with a mix of wired/wireless controller support
 
-### Skills & Tools
+My Main Devices Include:
 
-- **Operating Systems:** Debian, Ubuntu, macOS Monterey, Windows 11  
-- **Virtualization:** Proxmox VE, QEMU/KVM, LXC  
-- **Containers:** Docker, Docker Compose  
-- **Networking & Remote Access:** SSH, SMB, RDP, SPICE, ZeroTier, RustDesk  
-- **Storage & File Systems:** ZFS, ext4, BitLocker, APFS  
-- **Emulation & Media:** RetroBat, Dolphin, RPCS3, RetroArch, Jellyfin, Plex  
-- **Development:** Bash scripting, batch automation, terminal workflows  
-- **Other:** BIOS/UEFI troubleshooting, disk imaging, Webmin
+iMac – My daily driver for emulator testing, research, and communication
 
----
+MSI GF63 Laptop – Portable setup for game development and remote work
 
-### Projects
+Omen Desktop (Power Tower) – Runs Proxmox, used for gaming and heavy VM workloads
 
-#### Home Lab Infrastructure
-- Built and maintain a Proxmox VE virtualization environment spanning multiple repurposed machines.
-- Implemented ZFS-backed storage pools, network bridges (vmbr0), and remote management workflows.
-- Designed a thin client controller system using Proxmox on lightweight laptops.
+Wyse Thin Client – Headless Ubuntu Server for Docker, filesharing, and future NAS use
 
-#### Media Server & NAS
-- Migrated from Plex to Jellyfin for a fully self-hosted media experience.
-- Created custom scraping and automation scripts to organize and manage a large media library.
-- Developing a Docker-powered NAS on a Wyse thin client for scalable, lightweight file hosting.
+Raspberry Pi 5 (8GB) – Retro console and Docker sandbox
 
-#### Retro Gaming Console
-- Engineered a portable Raspberry Pi 5-based gaming system housed inside a wine crate.
-- Configured multiple controller inputs (PS4, Switch, GameCube, 8BitDo) for seamless gaming.
-- Emulate systems from Game Boy up to Switch and PS3 using RetroBat and specialized emulators.
+MegaProx (Dell Laptop) – Lightweight Proxmox node and thin client controller
 
----
+Gaming & Emulation Stack:
 
-### Contact
+I’m building a clean, plug-and-play retro gaming setup using RetroBat and The New Bat GUI on a 1TB drive. I test with:
 
-- Email: chelbya.smith@gmail.com  
-- GitHub:   https://github.com/MadQ1113
-- LinkedIn:   www.linkedin.com/in/chelby-smith
-- Location: Jax, FL — Open to remote opportunities  
+Pokémon Yellow (Game Boy)
 
----
+The Legend of Zelda: Tears of the Kingdom, Wind Waker, Twilight Princess
 
-*“I learn best by doing — trying, breaking, and fixing until I understand systems inside and out.”*
+LittleBigPlanet 1–3 (PS3)
 
----
+Controllers in rotation include PS4, GameCube (via adapter), 8BitDo, and Joy-Cons.
 
-*Last updated: 2025-06-04*
- add portfolio readme
+Current Projects:
+
+Turning the Wyse thin client into a Docker-powered NAS
+
+Expanding my thin client ecosystem using Proxmox with RDP and SPICE
+
+Organizing and optimizing my Jellyfin server for smooth playback and access
+
+Automating system backups and snapshots across devices
+
+Configuring clean vmbr0 networking across Proxmox nodes
